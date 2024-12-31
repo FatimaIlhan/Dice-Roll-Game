@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Somali Community\\Desktop\\Dice-Roll-Game\\Dice Roll Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30F7592F-AC5D-4DA9-A40E-12ED99643473}|Dice Roll Game\\Dice Roll Game.csproj|c:\\users\\somali community\\desktop\\dice-roll-game\\dice roll game\\dice roll game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F7592F-AC5D-4DA9-A40E-12ED99643473}|Dice Roll Game\\Dice Roll Game.csproj|solutionrelative:dice roll game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Somali Community\\Desktop\\Dice-Roll-Game\\Dice Roll Game\\Dice Roll Game\\Program.cs",
+              "RelativeDocumentMoniker": "Dice Roll Game\\Program.cs",
+              "ToolTip": "C:\\Users\\Somali Community\\Desktop\\Dice-Roll-Game\\Dice Roll Game\\Dice Roll Game\\Program.cs",
+              "RelativeToolTip": "Dice Roll Game\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T15:04:48.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
