@@ -1,0 +1,15 @@
+C:\Users\Somali Community\Desktop\Dice-Roll-Game\Dice Roll Game\Dice Roll Game\bin\Debug\net8.0\Dice Roll Game.exe
+C:\Users\Somali Community\Desktop\Dice-Roll-Game\Dice Roll Game\Dice Roll Game\bin\Debug\net8.0\Dice Roll Game.deps.json
+C:\Users\Somali Community\Desktop\Dice-Roll-Game\Dice Roll Game\Dice Roll Game\bin\Debug\net8.0\Dice Roll Game.runtimeconfig.json
+C:\Users\Somali Community\Desktop\Dice-Roll-Game\Dice Roll Game\Dice Roll Game\bin\Debug\net8.0\Dice Roll Game.dll
+C:\Users\Somali Community\Desktop\Dice-Roll-Game\Dice Roll Game\Dice Roll Game\bin\Debug\net8.0\Dice Roll Game.pdb
+C:\Users\Somali Community\Desktop\Dice-Roll-Game\Dice Roll Game\Dice Roll Game\obj\Debug\net8.0\Dice Roll Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Somali Community\Desktop\Dice-Roll-Game\Dice Roll Game\Dice Roll Game\obj\Debug\net8.0\Dice Roll Game.AssemblyInfoInputs.cache
+C:\Users\Somali Community\Desktop\Dice-Roll-Game\Dice Roll Game\Dice Roll Game\obj\Debug\net8.0\Dice Roll Game.AssemblyInfo.cs
+C:\Users\Somali Community\Desktop\Dice-Roll-Game\Dice Roll Game\Dice Roll Game\obj\Debug\net8.0\Dice Roll Game.csproj.CoreCompileInputs.cache
+C:\Users\Somali Community\Desktop\Dice-Roll-Game\Dice Roll Game\Dice Roll Game\obj\Debug\net8.0\Dice Roll Game.sourcelink.json
+C:\Users\Somali Community\Desktop\Dice-Roll-Game\Dice Roll Game\Dice Roll Game\obj\Debug\net8.0\Dice Roll Game.dll
+C:\Users\Somali Community\Desktop\Dice-Roll-Game\Dice Roll Game\Dice Roll Game\obj\Debug\net8.0\refint\Dice Roll Game.dll
+C:\Users\Somali Community\Desktop\Dice-Roll-Game\Dice Roll Game\Dice Roll Game\obj\Debug\net8.0\Dice Roll Game.pdb
+C:\Users\Somali Community\Desktop\Dice-Roll-Game\Dice Roll Game\Dice Roll Game\obj\Debug\net8.0\Dice Roll Game.genruntimeconfig.cache
+C:\Users\Somali Community\Desktop\Dice-Roll-Game\Dice Roll Game\Dice Roll Game\obj\Debug\net8.0\ref\Dice Roll Game.dll
